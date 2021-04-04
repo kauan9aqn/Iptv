@@ -9,3 +9,5 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyWjcQvKrYFHdFyTgN825F4-fFHntnx37AQ&usqp=CAU" group-title="FILME LANÇAMENTO",NA MESMA ONDA https://delivery.canais.ink/RCFServer5/ondemand/NMSMONDA.mp4
 P
+
+#EXTINF:-1 tvg-logo="" group-title="DRAGON BALL SUPER",S01-EP1 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP001.mp4 #EXTINF:-1 tvg-logo="" group-title="DRAGON BALL SUPER",S01-EP2 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP002.mp4
