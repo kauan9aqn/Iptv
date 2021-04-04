@@ -690,5 +690,5 @@ http://yorixiriamori.lhmtv.gq/futuro/-3U-EWCwml7M/XProAGp-e1I/AAAAAAAAG0A/RWSDuW
 http://yorixiriamori.lhmtv.gq/futuro/-3U-EWCwml7M/XProAGp-e1I/AAAAAAAAG0A/RWSDuW7vLXEuFteljKM6q8HZmdh2zK2aQCKgBGAs/m22/A.Mula.1080p.mp4
 #EXTINF:-1 group-title="Sessao Bonus" tvg-logo="http://stream.midiaconnect.tk/logo/bonus.png",Traicao para iniciantes SD
 http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMenI3jE8OBdF70xybNOe8BxvAucwACKgBGAs/m18/traicao.para.Iniciantes.mp4
-#EXTINF:-1 group-title="Sessao Bonus" tvg-logo="http://stream.midiaconnect.tk/logo/bonus.png",Traicao para iniciantes HD
+#EXTINF:-1 group-title="Sessao Bonus" tvg-logo="http://stream.midiaconnect.tk/logo/bonus.png",Traicao para iniciantes Hd
 http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMenI3jE8OBdF70xybNOe8BxvAucwACKgBGAs/m22/traicao.para.Iniciantes.mp4
