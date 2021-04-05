@@ -692,3 +692,6 @@ http://yorixiriamori.lhmtv.gq/futuro/-3U-EWCwml7M/XProAGp-e1I/AAAAAAAAG0A/RWSDuW
 http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMenI3jE8OBdF70xybNOe8BxvAucwACKgBGAs/m18/traicao.para.Iniciantes.mp4
 #EXTINF:-1 group-title="Sessao Bonus" tvg-logo="http://stream.midiaconnect.tk/logo/bonus.png",Traicao para iniciantes Hd
 http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMenI3jE8OBdF70xybNOe8BxvAucwACKgBGAs/m22/traicao.para.Iniciantes.mp4
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_aUbRoPh1KpT8UhSLk5yxt57wHFD8HeuKQ&usqp=CAU" group-title="Canais | Infantis",NICKELODEON HD http://top.hatv.me:2095/dtv_119849/5ZL9uTUL/13897
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtq9nMpnr7NqPZAOfMwFzZMgtjRXcB4ly7w&usqp=CAU" group-title="FILMES & SERIES",TELECINE FUN HD http://top.hatv.me:2095/dtv_119849/5ZL9uTUL/13740
+
