@@ -712,7 +712,7 @@ http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMe
 #EXTINF:-1 tvg-logo="https://allgamesejogos.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/SMFLHS.jpg?1" group-title="FILME LANÇAMENTO",SEM FILHOS 2021
 https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP28 https://delivery.canais.ink/RCServe13/ondemand/DBSPREP028.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP28 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP028.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP29 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP029.mp4
 
