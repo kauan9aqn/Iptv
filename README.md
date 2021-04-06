@@ -724,9 +724,9 @@ https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP33 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP033.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP34 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP034.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP34 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP034.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP35 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP035.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP35 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP035.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP36 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP036.mp4
 
@@ -768,13 +768,13 @@ https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP55 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP055.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP56 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP056.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP56 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP056.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP57 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP057.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP58 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP058.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP59 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP059.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP59 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP059.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP60 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP060.mp4
 
