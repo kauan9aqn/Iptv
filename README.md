@@ -697,3 +697,5 @@ http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMe
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtq9nMpnr7NqPZAOfMwFzZMgtjRXcB4ly7w&usqp=CAU" group-title="FILMES & SERIES",TELECINE FUN HD http://top.hatv.me:2095/dtv_119849/5ZL9uTUL/13740
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="Canais | Filmes e Series",FX https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=_ZzznONgB3We7egsZvcBbw&3U1G7qaTxrPbalZnEx=1617715168
+
