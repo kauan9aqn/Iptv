@@ -699,3 +699,15 @@ http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMe
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="Canais | Filmes e Series",FX https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=_ZzznONgB3We7egsZvcBbw&3U1G7qaTxrPbalZnEx=1617715168
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyog8NCzKfMs3edPWPHkG3MVj2yDQcdXwsg&usqp=CAU" group-title="FILME LANÇAMENTO",TOM E JERRY(DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/TOMEJRYOFLME.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrf8pezydLw7v9whSlZMc2e9tu34UO14Tmw&usqp=CAU" group-title="FILME LANÇAMENTO",MONSTER HUNTER 2021 (DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/MNSTRHNTR.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTpShaUI_vQoU0-2ngZEa7fZfTsrmpSi1Kw&usqp=CAU" group-title="FILME LANÇAMENTO",PINÒQUIO (DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/PNQUIO2021.mp4
+
+#EXTINF:-1 tvg-logo="https://bemestarglobal.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/LGDJSTCZCKSNYDR.jpg?1" group-title="FILME LANÇAMENTO",Liga da Justiça de Zack Snyder (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
+
+
+#EXTINF:-1 tvg-logo="https://allgamesejogos.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/SMFLHS.jpg?1" group-title="FILME LANÇAMENTO",SEM FILHOS 2021
+https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
