@@ -920,4 +920,49 @@ https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",SO1-EP131 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP131.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP01
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP02
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP03
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP04
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP05
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-5.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP06
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-6.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP07
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-7.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP08
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-8.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP09
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-9.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP10
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-10.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP11
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-11.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP12
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-12.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP13
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP14
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-14.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP15
+https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-15.mp4
+
 
