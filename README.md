@@ -918,6 +918,6 @@ https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP130 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP130.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP131 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP131.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",SO1-EP131 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP131.mp4
 
 
