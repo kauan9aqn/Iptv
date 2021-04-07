@@ -965,4 +965,53 @@ https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP15
 https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-15.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CG4ZcMsW6ltugezME1Dk7lkwzUv_ZY76Lg&usqp=CAU" group-title="FILME LANÇAMENTO",POR TRÁS DA INOCÊNCIA (DUBLADO)  2021 https://workstation.canais.ink/RCFServer5/ondemand/PRTRSDINCIA.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x3J0pXmY0CQdIOjQ6-zygmX62bAeCsMxQw&usqp=CAU" group-title="FILME LANÇAMENTO",O JARDIN SECRETO (DUBLADO) 2021
+https://workstation.canais.ink/RCFServer5/ondemand/OJRDMSCRTO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/20/05/14/19/46/2030098.jpg" group-title="FILME LANÇAMENTO",FURIA INCONTROLÁVEL(DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/FURAINCTRLVL.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKn-cC5BEzfUsFuVCHZfHiq_nWgThCFHY4Cw&usqp=CAU" group-title="FILME LANÇAMENTO",AMEAÇA NO ESPAÇO (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/AMACNESPCO.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmdW9RxlQs3rIxmhcDFoaZV3_uy32oU-i9A&usqp=CAU" group-title="FILME LANÇAMENTO",CABRAS DA PESTE (DUBLADO)2021 https://workstation.canais.ink/RCFServer5/ondemand/CBRDPSTE.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0djWII3cJZcpwzQyR44pCNYVlKzpFUMadNQ&usqp=CAU" group-title="FILME LANÇAMENTO",UM PRINCIPE EM NOVA YORK 2(DUB) 2021 https://workstation.canais.ink/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E2lpBLtp4PGnsfgzKoUmKD9cqZcXxdmM0Q&usqp=CAU" group-title="FILME LANÇAMENTO",THE GIRL ON TRAIN (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/THGRLONTHTRN.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKffOzkHQFgoYBju2HLYqse9OAj_CIcJhcuw&usqp=CAU" group-title="FILME LANÇAMENTO",SILENCIADAS (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/SLNCDS.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi450SOEyn0ACK5yk9ElwC_x5XN-gPYKQPmw&usqp=CAU" group-title="FILME LANÇAMENTO",RAIZES DO AMOR (DUBLADO)2021  https://workstation.canais.ink/RCFServer5/ondemand/RZSDAMR.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBehLrMVPUB8FDixdijosrDPDfviUkndAaJg&usqp=CAU" group-title="FILME LANÇAMENTO",Raya e o Último Dragão (Dublado) https://workstation.canais.ink/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIqxiNiPAF7FUCi0N2-0LNdzk1WAl1MALNg&usqp=CAU" group-title="FILME LANÇAMENTO",Psych 2: Lassie está de Volta (Dublado) https://workstation.canais.ink/RCFServer5/ondemand/PSCH2LSIEESTDVLTA.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLIH_fnGyvu1yGT83Whue_j_T5rLh9FC4sw&usqp=CAU" group-title="FILME LANÇAMENTO",Filhos de Istambul (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/FLHSDISTMBL.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcZ8OI9vIfCBGv_zIo70aizCZ4vWkpi7rZw&usqp=CAU" group-title="FILME LANÇAMENTO",O Recepcionista (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/ORCPCNSTA.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQz-2KOdH6lIWg_BM68p5PeU1DkPtryM0-eQ&usqp=CAU" group-title="FILME LANÇAMENTO",A Sentinela (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/ASNTNLA.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wOof1-ieZpnLIcBOwSYvJLPiTzNg_S6A3Q&usqp=CAU" group-title="FILME COMEDIA",American Pie: A 1ª Vez é Inesquecível (Dublado) - 1999 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0gqSWh3WDe42DuCUBMeNw9c65bXq4hO5gg&usqp=CAU" group-title="FILME COMEDIA",American Pie 2: A Segunda Vez É Ainda Melhor (Dublado) - 2001 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE2.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMVis5IZc8seKjG2kINWNUxFRq9C_nvG_SA&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Casamento (Dublado) - 2003 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt_Sn1z4biEJcPtnx0dRQt-BT0cNmND1q4g&usqp=CAU" group-title="FILME COMEDIA",American Pie 4: Tocando a Maior Zona (Dublado) https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE4.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaD4NWxjLCY1x2v2MjF-JiQG1NMgHkUfSLqg&usqp=CAU" group-title="FILME COMEDIA",American Pie 5: O Último Stifler Virgem (Dublado)
+https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE5.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdeUrF1uGE5-EJ_TX1FrMMpDD5uzYd0RXew&usqp=CAU" group-title="FILME COMEDIA",American Pie: Caindo em Tentação (Dublado) - 2007
+https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE6.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7sNhPZCWzFq2AeSSvz6oSD2PDHsodErCYQ&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Livro do Amor (Dublado) - 2009
+https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE7.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoztgUSiGUe_BsXUhaArkpb4YabJ-DBGlSg&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Reencontro (Dublado) - 2012
+https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
+
 
