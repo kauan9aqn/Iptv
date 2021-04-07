@@ -1014,4 +1014,6 @@ https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE7.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoztgUSiGUe_BsXUhaArkpb4YabJ-DBGlSg&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Reencontro (Dublado) - 2012
 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICKELODEON https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=WFZJKPr-5t4tyQIiKFh_Fw&3U1G7qaTxrPbalZnEx=1617858478
+
 
