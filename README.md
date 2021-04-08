@@ -1013,7 +1013,116 @@ https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE7.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoztgUSiGUe_BsXUhaArkpb4YabJ-DBGlSg&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Reencontro (Dublado) - 2012
 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP01 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP01.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",NICKELODEON https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=WFZJKPr-5t4tyQIiKFh_Fw&3U1G7qaTxrPbalZnEx=1617858478
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP02 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP03 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP04 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP05 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP06 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP07 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP08 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP09 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP10 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP11 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP12 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP13 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP14 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP15 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP16 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP17 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP18 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP01 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP02 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP03 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP04 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP05 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP06 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP07 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP08 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP09 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP10 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP11 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP12 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP13 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP14 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP15 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP16 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP17 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP18 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP01 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP02 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP03 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP04 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP05 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP06 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP07 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP08 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP09 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP10 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP11 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP11.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP12 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP13 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP13.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP14 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP14.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP15 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP15.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP16 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP16.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP17 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP17.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP18 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP18.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP19 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP19.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP20 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP20.mp4
 
 
