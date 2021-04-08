@@ -1124,4 +1124,6 @@ https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP20 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP20.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",CARTOON NETWORK https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/cartoonnetwork_511a418e_4317cdce988328fea210af4f855c714df9329d49/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTc3LjE3Ny4yNDEuMTEyIjtpOjE7czoxNjU6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDguMC4wOyBTTS1HNTcwTSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS45MCBZYUJyb3dzZXIvMjEuMy4wLjk5LjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzkxMDE5OTt9
+
 
