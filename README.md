@@ -1125,7 +1125,7 @@ https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP20 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP20.mp4
 
 #EXTINF: -1 tvg-id = "cartoonnetwork.com" tvg-logo="" group-title="INFANTIL", CARTOON NETWORK
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=DYJwji41JkGAgsYIYA00EQ&3U1G7qaTxrPbalZnEx=1618022524
+http://50.7.34.34/HD_CARTOON_NETWORK/video.m3u8?token=cda72fdc7e9daed7c2b53eb590697449
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVYf4HkJGy98z4Ajjmwm7lUXQ3aLddH2nhg&usqp=CAU" group-title="FILME LANÇAMENTO",GODZILA VS KONG (LEGENDADO) 2021
 https://workstation.canais.ink/RCFServer5/ondemand/GDZLAVSKNGLEG.mp4
