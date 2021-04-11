@@ -1130,3 +1130,30 @@ http://50.7.34.34/HD_CARTOON_NETWORK/video.m3u8?token=cda72fdc7e9daed7c2b53eb590
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVYf4HkJGy98z4Ajjmwm7lUXQ3aLddH2nhg&usqp=CAU" group-title="FILME LANÇAMENTO",GODZILA VS KONG (LEGENDADO) 2021
 https://workstation.canais.ink/RCFServer5/ondemand/GDZLAVSKNGLEG.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP00 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP00.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP00 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP00.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP03.mp4
