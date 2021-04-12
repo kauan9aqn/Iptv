@@ -15,7 +15,7 @@ P
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP05 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP005.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP06 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP006.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP06 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP006.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP07 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP007.mp4
 
@@ -43,21 +43,21 @@ delivery.canais.ink/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP19 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP019.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP20 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP020.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP20 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP020.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP21 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP021.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP21 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP021.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP22 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP022.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP22 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP022.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP23 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP023.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP23 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP023.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP24 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP024.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP24 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP024.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP25 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP025.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP25 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP025.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP26 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP026.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP26 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP026.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP27 https://delivery.canais.ink/RCServer09/ondemand/DBSPREP027.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP27 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/DBSPREP027.mp4
 
 #EXTINF:-1 group-title="CANAL ABERTO" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/recordsp.jpg",REDE RECORD
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
@@ -699,225 +699,225 @@ http://yorixiriamori.lhmtv.gq/futuro/-PuyNqcA3fqk/XProAEsYNEI/AAAAAAAAG0A/tiJFMe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="Canais | Filmes e Series",FX https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=_ZzznONgB3We7egsZvcBbw&3U1G7qaTxrPbalZnEx=1617715168
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyog8NCzKfMs3edPWPHkG3MVj2yDQcdXwsg&usqp=CAU" group-title="FILME LANÇAMENTO",TOM E JERRY(DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/TOMEJRYOFLME.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyog8NCzKfMs3edPWPHkG3MVj2yDQcdXwsg&usqp=CAU" group-title="FILME LANÇAMENTO",TOM E JERRY(DUBLADO) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/TOMEJRYOFLME.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrf8pezydLw7v9whSlZMc2e9tu34UO14Tmw&usqp=CAU" group-title="FILME LANÇAMENTO",MONSTER HUNTER 2021 (DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/MNSTRHNTR.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrf8pezydLw7v9whSlZMc2e9tu34UO14Tmw&usqp=CAU" group-title="FILME LANÇAMENTO",MONSTER HUNTER 2021 (DUBLADO) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/MNSTRHNTR.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTpShaUI_vQoU0-2ngZEa7fZfTsrmpSi1Kw&usqp=CAU" group-title="FILME LANÇAMENTO",PINÒQUIO (DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/PNQUIO2021.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTpShaUI_vQoU0-2ngZEa7fZfTsrmpSi1Kw&usqp=CAU" group-title="FILME LANÇAMENTO",PINÒQUIO (DUBLADO) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/PNQUIO2021.mp4
 
-#EXTINF:-1 tvg-logo="https://bemestarglobal.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/LGDJSTCZCKSNYDR.jpg?1" group-title="FILME LANÇAMENTO",Liga da Justiça de Zack Snyder (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
+#EXTINF:-1 tvg-logo="https://bemestarglobal.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/LGDJSTCZCKSNYDR.jpg?1" group-title="FILME LANÇAMENTO",Liga da Justiça de Zack Snyder (Dublado) - 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/LGDJSTCZCKSNYDR.mp4
 
 
 #EXTINF:-1 tvg-logo="https://allgamesejogos.fun/player3/RedeCanaisVTTS/vtts/RCFServer5/SMFLHS.jpg?1" group-title="FILME LANÇAMENTO",SEM FILHOS 2021
-https://workstation.canais.ink/RCFServer5/ondemand/SMFLHS.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/SMFLHS.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP28 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP028.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP28 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP028.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP29 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP029.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP29 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP029.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP30 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP030.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP30 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP030.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP31 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP031.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP31 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP031.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP32 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP032.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP32 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP032.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP33 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP033.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP33 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP033.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP34 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP034.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP34 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP034.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP35 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP035.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP35 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP035.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP36 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP036.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP36 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP036.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP37 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP037.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP37 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP037.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP38 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP038.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP38 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP038.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP39 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP039.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP39 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP039.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP40 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP040.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP40 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP040.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP41 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP041.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP41 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP041.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP42 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP042.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP42 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP042.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP43 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP043.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP43 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP043.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP44 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP044.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP44 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP044.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP45 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP045.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP45 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP045.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP46 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP046.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP46 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP046.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP47 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP047.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP47 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP047.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP48 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP048.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP48 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP048.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP49 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP049.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP50 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP050.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP50 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP050.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP51 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP051.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP51 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP051.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP52 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP052.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP52 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP052.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP53 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP053.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP53 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP053.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP54 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP054.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP54 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP054.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP55 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP055.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP55 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP055.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP56 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP056.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP56 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP056.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP57 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP057.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP57 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP057.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP58 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP058.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP58 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP058.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP59 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP059.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP59 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP059.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP60 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP060.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP60 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP060.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP61 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP061.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP61 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP061.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP62 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP062.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP62 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP062.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP63 https://workstation.canais.ink/RCServer13/ondemand/DBSPREP063.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP63 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP063.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP64 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP064.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP64 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP064.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP65 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP065.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP65 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP065.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP66 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP066.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP66 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP066.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP67 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP067.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP67 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP067.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP68 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP068.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP68 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP068.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP69 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP069.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP69 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP069.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP70 https://delivery.canais.ink/RCServer13/ondemand/DBSPREP070.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP70 https://d14o9knl5w9rhh.cloudfront.net/RCServer13/ondemand/DBSPREP070.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP71 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP071.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP71 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP071.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP72 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP072.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP72 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP072.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP73 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP073.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP73 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP073.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP74 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP074.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP74 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP074.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP75 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP075.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP75 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP075.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP76 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP076.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP76 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP076.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP77 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP077.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP77 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP077.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP78 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP078.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP78 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP078.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP79 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP079.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP79 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP079.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP80 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP080.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP80 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP080.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP81 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP081.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP81 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP081.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP82 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP082.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP82 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP082.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP83 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP083.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP83 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP083.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP84 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP084.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP84 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP084.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP85 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP085.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP85 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP085.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP86 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP086.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP86 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP086.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP87 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP087.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP87 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP087.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP88 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP088.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP88 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP088.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP89 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP089.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP89 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP089.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP90 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP090.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP90 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP090.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP91 https://workstation.canais.ink/RCServer10/ondemand/DBSPREP091.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP91 https://d14o9knl5w9rhh.cloudfront.net/RCServer10/ondemand/DBSPREP091.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP92 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP092.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP92 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP092.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP93 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP093.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP93 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP093.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP94 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP094.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP94 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP094.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP95 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP095.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP95 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP095.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP96 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP096.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP96 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP096.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP97 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP097.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP97 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP097.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP98 https://workstation.canais.ink/RCServer07/ondemand/DBSPREP098.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP98 https://d14o9knl5w9rhh.cloudfront.net/RCServer07/ondemand/DBSPREP098.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP99 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP099.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP99 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP099.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP100 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP100.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP100 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP100.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP101 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP101.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP101 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP101.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP102 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP102.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP102 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP102.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP103 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP103.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP103 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP103.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP104 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP104.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP104 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP104.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP105 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP105.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP105 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP105.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP106 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP106.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP106 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP106.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP107 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP107.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP107 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP107.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP108 https://workstation.canais.ink/RCServer08/ondemand/DBSPREP108.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP108 https://d14o9knl5w9rhh.cloudfront.net/RCServer08/ondemand/DBSPREP108.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP109 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP109.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP109 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP109.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP110 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP110.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP110 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP110.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP111 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP111.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP111 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP111.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP112 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP112.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP112 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP112.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP113 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP113.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP113 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP113.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP114 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP114.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP114 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP114.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP115 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP115.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP115 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP115.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP116 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP116.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP116 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP116.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP117 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP117.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP117 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP117.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP118 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP118.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP118 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP118.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP119 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP119.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP119 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP119.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP120 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP120.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP120 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP120.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP121 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP121.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP121 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP121.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP122 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP122.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP122 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP122.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP123 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP123.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP123 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP123.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP124 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP124.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP124 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP124.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP125 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP125.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP125 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP125.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP126 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP126.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP126 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP126.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP127 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP127.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP127 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP127.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP128 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP128.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP128 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP128.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP129 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP129.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP129 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP129.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP130 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP130.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",S01-EP130 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP130.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",SO1-EP131 https://workstation.canais.ink/RCServer06/ondemand/DBSPREP131.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHerQY72sbI_fhB0mbUvaQLbyrwKIHcxW5A&usqp=CAU" group-title="DRAGON BALL SUPER",SO1-EP131 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/DBSPREP131.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP01
 https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-1.mp4
@@ -964,196 +964,196 @@ https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR33RmyA4XsLQqZGl-zeSNLfi6g_teg8pDAQ&usqp=CAU" group-title="JUTSU KAISEN",S01-EP15
 https://load1.servermonster.online/assistironline/jujutsu-kaisen-dublado/jujutsu-kaisen-dublado-episodio-15.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CG4ZcMsW6ltugezME1Dk7lkwzUv_ZY76Lg&usqp=CAU" group-title="FILME LANÇAMENTO",POR TRÁS DA INOCÊNCIA (DUBLADO)  2021 https://workstation.canais.ink/RCFServer5/ondemand/PRTRSDINCIA.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CG4ZcMsW6ltugezME1Dk7lkwzUv_ZY76Lg&usqp=CAU" group-title="FILME LANÇAMENTO",POR TRÁS DA INOCÊNCIA (DUBLADO)  2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/PRTRSDINCIA.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x3J0pXmY0CQdIOjQ6-zygmX62bAeCsMxQw&usqp=CAU" group-title="FILME LANÇAMENTO",O JARDIN SECRETO (DUBLADO) 2021
-https://workstation.canais.ink/RCFServer5/ondemand/OJRDMSCRTO.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/OJRDMSCRTO.mp4
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/20/05/14/19/46/2030098.jpg" group-title="FILME LANÇAMENTO",FURIA INCONTROLÁVEL(DUBLADO) https://workstation.canais.ink/RCFServer5/ondemand/FURAINCTRLVL.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/20/05/14/19/46/2030098.jpg" group-title="FILME LANÇAMENTO",FURIA INCONTROLÁVEL(DUBLADO) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/FURAINCTRLVL.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKn-cC5BEzfUsFuVCHZfHiq_nWgThCFHY4Cw&usqp=CAU" group-title="FILME LANÇAMENTO",AMEAÇA NO ESPAÇO (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/AMACNESPCO.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKn-cC5BEzfUsFuVCHZfHiq_nWgThCFHY4Cw&usqp=CAU" group-title="FILME LANÇAMENTO",AMEAÇA NO ESPAÇO (DUBLADO) 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/AMACNESPCO.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmdW9RxlQs3rIxmhcDFoaZV3_uy32oU-i9A&usqp=CAU" group-title="FILME LANÇAMENTO",CABRAS DA PESTE (DUBLADO)2021 https://workstation.canais.ink/RCFServer5/ondemand/CBRDPSTE.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmdW9RxlQs3rIxmhcDFoaZV3_uy32oU-i9A&usqp=CAU" group-title="FILME LANÇAMENTO",CABRAS DA PESTE (DUBLADO)2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/CBRDPSTE.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0djWII3cJZcpwzQyR44pCNYVlKzpFUMadNQ&usqp=CAU" group-title="FILME LANÇAMENTO",UM PRINCIPE EM NOVA YORK 2(DUB) 2021 https://workstation.canais.ink/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0djWII3cJZcpwzQyR44pCNYVlKzpFUMadNQ&usqp=CAU" group-title="FILME LANÇAMENTO",UM PRINCIPE EM NOVA YORK 2(DUB) 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/UMPRNCPEMNVYRK2.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E2lpBLtp4PGnsfgzKoUmKD9cqZcXxdmM0Q&usqp=CAU" group-title="FILME LANÇAMENTO",THE GIRL ON TRAIN (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/THGRLONTHTRN.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7E2lpBLtp4PGnsfgzKoUmKD9cqZcXxdmM0Q&usqp=CAU" group-title="FILME LANÇAMENTO",THE GIRL ON TRAIN (DUBLADO) 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/THGRLONTHTRN.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKffOzkHQFgoYBju2HLYqse9OAj_CIcJhcuw&usqp=CAU" group-title="FILME LANÇAMENTO",SILENCIADAS (DUBLADO) 2021 https://workstation.canais.ink/RCFServer5/ondemand/SLNCDS.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKffOzkHQFgoYBju2HLYqse9OAj_CIcJhcuw&usqp=CAU" group-title="FILME LANÇAMENTO",SILENCIADAS (DUBLADO) 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/SLNCDS.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi450SOEyn0ACK5yk9ElwC_x5XN-gPYKQPmw&usqp=CAU" group-title="FILME LANÇAMENTO",RAIZES DO AMOR (DUBLADO)2021  https://workstation.canais.ink/RCFServer5/ondemand/RZSDAMR.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi450SOEyn0ACK5yk9ElwC_x5XN-gPYKQPmw&usqp=CAU" group-title="FILME LANÇAMENTO",RAIZES DO AMOR (DUBLADO)2021  https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/RZSDAMR.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBehLrMVPUB8FDixdijosrDPDfviUkndAaJg&usqp=CAU" group-title="FILME LANÇAMENTO",Raya e o Último Dragão (Dublado) https://workstation.canais.ink/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBehLrMVPUB8FDixdijosrDPDfviUkndAaJg&usqp=CAU" group-title="FILME LANÇAMENTO",Raya e o Último Dragão (Dublado) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/RAYEOULTMDRGAO.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIqxiNiPAF7FUCi0N2-0LNdzk1WAl1MALNg&usqp=CAU" group-title="FILME LANÇAMENTO",Psych 2: Lassie está de Volta (Dublado) https://workstation.canais.ink/RCFServer5/ondemand/PSCH2LSIEESTDVLTA.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIqxiNiPAF7FUCi0N2-0LNdzk1WAl1MALNg&usqp=CAU" group-title="FILME LANÇAMENTO",Psych 2: Lassie está de Volta (Dublado) https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/PSCH2LSIEESTDVLTA.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLIH_fnGyvu1yGT83Whue_j_T5rLh9FC4sw&usqp=CAU" group-title="FILME LANÇAMENTO",Filhos de Istambul (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/FLHSDISTMBL.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLIH_fnGyvu1yGT83Whue_j_T5rLh9FC4sw&usqp=CAU" group-title="FILME LANÇAMENTO",Filhos de Istambul (Dublado) - 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/FLHSDISTMBL.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcZ8OI9vIfCBGv_zIo70aizCZ4vWkpi7rZw&usqp=CAU" group-title="FILME LANÇAMENTO",O Recepcionista (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/ORCPCNSTA.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcZ8OI9vIfCBGv_zIo70aizCZ4vWkpi7rZw&usqp=CAU" group-title="FILME LANÇAMENTO",O Recepcionista (Dublado) - 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/ORCPCNSTA.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQz-2KOdH6lIWg_BM68p5PeU1DkPtryM0-eQ&usqp=CAU" group-title="FILME LANÇAMENTO",A Sentinela (Dublado) - 2021 https://workstation.canais.ink/RCFServer5/ondemand/ASNTNLA.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQz-2KOdH6lIWg_BM68p5PeU1DkPtryM0-eQ&usqp=CAU" group-title="FILME LANÇAMENTO",A Sentinela (Dublado) - 2021 https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/ASNTNLA.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wOof1-ieZpnLIcBOwSYvJLPiTzNg_S6A3Q&usqp=CAU" group-title="FILME COMEDIA",American Pie: A 1ª Vez é Inesquecível (Dublado) - 1999 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE1.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wOof1-ieZpnLIcBOwSYvJLPiTzNg_S6A3Q&usqp=CAU" group-title="FILME COMEDIA",American Pie: A 1ª Vez é Inesquecível (Dublado) - 1999 https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE1.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0gqSWh3WDe42DuCUBMeNw9c65bXq4hO5gg&usqp=CAU" group-title="FILME COMEDIA",American Pie 2: A Segunda Vez É Ainda Melhor (Dublado) - 2001 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE2.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0gqSWh3WDe42DuCUBMeNw9c65bXq4hO5gg&usqp=CAU" group-title="FILME COMEDIA",American Pie 2: A Segunda Vez É Ainda Melhor (Dublado) - 2001 https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE2.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMVis5IZc8seKjG2kINWNUxFRq9C_nvG_SA&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Casamento (Dublado) - 2003 https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE3.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMVis5IZc8seKjG2kINWNUxFRq9C_nvG_SA&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Casamento (Dublado) - 2003 https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE3.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt_Sn1z4biEJcPtnx0dRQt-BT0cNmND1q4g&usqp=CAU" group-title="FILME COMEDIA",American Pie 4: Tocando a Maior Zona (Dublado) https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE4.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt_Sn1z4biEJcPtnx0dRQt-BT0cNmND1q4g&usqp=CAU" group-title="FILME COMEDIA",American Pie 4: Tocando a Maior Zona (Dublado) https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE4.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaD4NWxjLCY1x2v2MjF-JiQG1NMgHkUfSLqg&usqp=CAU" group-title="FILME COMEDIA",American Pie 5: O Último Stifler Virgem (Dublado)
-https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE5.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE5.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdeUrF1uGE5-EJ_TX1FrMMpDD5uzYd0RXew&usqp=CAU" group-title="FILME COMEDIA",American Pie: Caindo em Tentação (Dublado) - 2007
-https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE6.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE6.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7sNhPZCWzFq2AeSSvz6oSD2PDHsodErCYQ&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Livro do Amor (Dublado) - 2009
-https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE7.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE7.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyoztgUSiGUe_BsXUhaArkpb4YabJ-DBGlSg&usqp=CAU" group-title="FILME COMEDIA",American Pie: O Reencontro (Dublado) - 2012
-https://workstation.canais.ink/RCFServer1/ondemand/AMRCNPIE8.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP01 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP01.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer1/ondemand/AMRCNPIE8.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP02 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP03 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP04 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP04 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP05 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP05 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP06 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP06 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP07 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP07 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP08 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP08 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP09 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP09 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP10 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP10.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP10 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP11 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP11.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP11 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP12 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP12.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP12 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP13 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP13.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP13 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP14 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP14.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP14 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP15 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP15.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP15 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP16 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP16.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP16 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP17 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP17.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP17 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP18 https://workstation.canais.ink/RCServer12/ondemand/OBMDTRT01EP18.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S01 - EP18 https://d14o9knl5w9rhh.cloudfront.net/RCServer12/ondemand/OBMDTRT01EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP01 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP02 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP03 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP04 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP04 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP05 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP05 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP06 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP06 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP07 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP07 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP08 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP08 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP09 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP09 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP10 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP10.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP10 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP11 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP11.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP11 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP12 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP12.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP12 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP13 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP13.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP13 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP14 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP14.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP14 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP15 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP15.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP15 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP16 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP16.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP16 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP17 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP17.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP17 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP18 https://workstation.canais.ink/RCServer06/ondemand/OBMDTRT02EP18.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S02 - EP18 https://d14o9knl5w9rhh.cloudfront.net/RCServer06/ondemand/OBMDTRT02EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP01 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP02 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP03 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP04 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP04 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP04.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP05 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP05 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP05.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP06 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP06 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP06.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP07 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP07 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP07.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP08 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP08 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP08.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP09 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP09 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP09.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP10 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP10 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP11 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP11 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP11.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP12 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP12 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP12.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP13 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP13 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP13.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP14 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP14 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP14.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP15 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP15 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP15.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP16 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP16 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP16.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP17 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP17 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP17.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP18 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP18 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP18.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP19 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP19 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP19.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP20 https://workstation.canais.ink/RCServer14/ondemand/OBMDTRT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8B2Cpa1mnzCd6kDC76M0SqzDChgKnQ1btw&usqp=CAU" group-title="THE GOOD DOCTOR",S03 - EP20 https://d14o9knl5w9rhh.cloudfront.net/RCServer14/ondemand/OBMDTRT03EP20.mp4
 
 #EXTINF: -1 tvg-id = "cartoonnetwork.com" tvg-logo="" group-title="INFANTIL", CARTOON NETWORK
 http://50.7.34.34/HD_CARTOON_NETWORK/video.m3u8?token=cda72fdc7e9daed7c2b53eb590697449
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVYf4HkJGy98z4Ajjmwm7lUXQ3aLddH2nhg&usqp=CAU" group-title="FILME LANÇAMENTO",GODZILA VS KONG (LEGENDADO) 2021
-https://workstation.canais.ink/RCFServer5/ondemand/GDZLAVSKNGLEG.mp4
+https://d14o9knl5w9rhh.cloudfront.net/RCFServer5/ondemand/GDZLAVSKNGLEG.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT01EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT01EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S01-EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT01EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT02EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT02EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S02-EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT02EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP00 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP00.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP00 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT03EP00.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT03EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT03EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S03-EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT03EP03.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP00 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP00.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP00 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT04EP00.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP01 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP01 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT04EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP02 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP02 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT04EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP03 https://workstation.canais.ink/RCServer09/ondemand/SHRLCKT04EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yt8oN1BkHzX4daeRHeD_Hp8UBZhaxrG-Qw&usqp=CAU" group-title="SHERLOCK",S04-EP03 https://d14o9knl5w9rhh.cloudfront.net/RCServer09/ondemand/SHRLCKT04EP03.mp4
